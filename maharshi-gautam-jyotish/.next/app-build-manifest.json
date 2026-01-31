@@ -1,0 +1,76 @@
+{
+  "pages": {
+    "/_not-found": [
+      "static/chunks/webpack-fc7ee127c99ee35e.js",
+      "static/chunks/fd9d1056-803f3afc98c64581.js",
+      "static/chunks/69-bf0faca87d920f27.js",
+      "static/chunks/main-app-5252241ce1f1c169.js",
+      "static/chunks/app/_not-found-7544f47909dc9de3.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-fc7ee127c99ee35e.js",
+      "static/chunks/fd9d1056-803f3afc98c64581.js",
+      "static/chunks/69-bf0faca87d920f27.js",
+      "static/chunks/main-app-5252241ce1f1c169.js",
+      "static/chunks/808-d23b28e53ceee3e0.js",
+      "static/chunks/168-16e9fe3ff586babc.js",
+      "static/chunks/531-48abb89e348341cc.js",
+      "static/css/a39243f9f1039463.css",
+      "static/chunks/app/layout-12e65ab24d2ccbf8.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-fc7ee127c99ee35e.js",
+      "static/chunks/fd9d1056-803f3afc98c64581.js",
+      "static/chunks/69-bf0faca87d920f27.js",
+      "static/chunks/main-app-5252241ce1f1c169.js",
+      "static/chunks/808-d23b28e53ceee3e0.js",
+      "static/chunks/168-16e9fe3ff586babc.js",
+      "static/chunks/572-91084d9a761ef741.js",
+      "static/chunks/app/page-ec4cc1c5a1113ebd.js"
+    ],
+    "/blog/page": [
+      "static/chunks/webpack-fc7ee127c99ee35e.js",
+      "static/chunks/fd9d1056-803f3afc98c64581.js",
+      "static/chunks/69-bf0faca87d920f27.js",
+      "static/chunks/main-app-5252241ce1f1c169.js",
+      "static/chunks/808-d23b28e53ceee3e0.js",
+      "static/chunks/168-16e9fe3ff586babc.js",
+      "static/chunks/app/blog/page-8fe470a48d73c98b.js"
+    ],
+    "/about/page": [
+      "static/chunks/webpack-fc7ee127c99ee35e.js",
+      "static/chunks/fd9d1056-803f3afc98c64581.js",
+      "static/chunks/69-bf0faca87d920f27.js",
+      "static/chunks/main-app-5252241ce1f1c169.js",
+      "static/chunks/808-d23b28e53ceee3e0.js",
+      "static/chunks/app/about/page-a6346cb60a028089.js"
+    ],
+    "/book-consultation/page": [
+      "static/chunks/webpack-fc7ee127c99ee35e.js",
+      "static/chunks/fd9d1056-803f3afc98c64581.js",
+      "static/chunks/69-bf0faca87d920f27.js",
+      "static/chunks/main-app-5252241ce1f1c169.js",
+      "static/chunks/808-d23b28e53ceee3e0.js",
+      "static/chunks/846-64c29d03dab4ea06.js",
+      "static/chunks/app/book-consultation/page-ec77295690f5f188.js"
+    ],
+    "/services/page": [
+      "static/chunks/webpack-fc7ee127c99ee35e.js",
+      "static/chunks/fd9d1056-803f3afc98c64581.js",
+      "static/chunks/69-bf0faca87d920f27.js",
+      "static/chunks/main-app-5252241ce1f1c169.js",
+      "static/chunks/808-d23b28e53ceee3e0.js",
+      "static/chunks/168-16e9fe3ff586babc.js",
+      "static/chunks/app/services/page-0bf65deb027dd322.js"
+    ],
+    "/contact/page": [
+      "static/chunks/webpack-fc7ee127c99ee35e.js",
+      "static/chunks/fd9d1056-803f3afc98c64581.js",
+      "static/chunks/69-bf0faca87d920f27.js",
+      "static/chunks/main-app-5252241ce1f1c169.js",
+      "static/chunks/808-d23b28e53ceee3e0.js",
+      "static/chunks/846-64c29d03dab4ea06.js",
+      "static/chunks/app/contact/page-88b723235b4a0852.js"
+    ]
+  }
+}
