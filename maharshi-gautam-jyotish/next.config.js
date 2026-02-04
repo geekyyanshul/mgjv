@@ -9,5 +9,5 @@ const nextConfig = {
       optimizeCss: true,
     },
   }
-  
+   
   module.exports = nextConfig
